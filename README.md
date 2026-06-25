@@ -1,2 +1,2 @@
 # proxy-hunter
-Proxy Hunter
+Proxy Hunter pre-release version proxy checker project
